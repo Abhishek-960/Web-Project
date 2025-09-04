@@ -2,6 +2,10 @@
 
 A simple and responsive website built using HTML, CSS, and JavaScript. This project demonstrates basic frontend web development concepts like layout design, styling, and interactivity.
 
+# Vercel Link
+
+web-project-cyan-tau.vercel.app
+
 # 🚀 Features
 
 📄 Clean and responsive UI
